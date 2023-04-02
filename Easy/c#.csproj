@@ -6,7 +6,7 @@
     <RootNamespace>c_</RootNamespace>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Algo.Sqrt</StartupObject>
+    <StartupObject>Algo.LinearSearchUsingRecursion</StartupObject>
   </PropertyGroup>
 
 </Project>
