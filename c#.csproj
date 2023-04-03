@@ -6,7 +6,7 @@
     <RootNamespace>c_</RootNamespace>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Algomed.DeleteNodeInLinkedList</StartupObject>
+    <StartupObject>Algo.PatternTriangle</StartupObject>
   </PropertyGroup>
 
 </Project>
